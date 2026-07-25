@@ -1,4 +1,4 @@
-name: wine_quality_model
+name: diabetes_model
 conda_env: conda.yaml
 entry_points:
   main:
